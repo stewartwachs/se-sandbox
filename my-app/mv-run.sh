@@ -1,0 +1,1 @@
+docker run -it -v "$PWD":/usr/src/app maven-test -T 1C
