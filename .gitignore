@@ -1,0 +1,4 @@
+*.idea*
+**/target/*
+my-app.iml
+.DS_Store
